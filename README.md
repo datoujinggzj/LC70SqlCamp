@@ -18,7 +18,7 @@ Python速成不现实，但是SQL可以！
 
 ## 👉个人公众号：鲸析
 
-<font color=red>关注鲸析，给你惊喜！</font>
+关注鲸析，给你惊喜！
 
 <div align=center>
 <img src=pic/qrcode_account.jpg width='400' />
