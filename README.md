@@ -47,7 +47,7 @@ Python速成不现实，但是SQL可以！
 ## 👉项目简介
 
 <div align=center>
-<img src=pic/porto_logo.png width='800' />
+<img src=pic/sql.gif width='400' />
 </div>
 
 
