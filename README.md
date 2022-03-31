@@ -1,10 +1,8 @@
-# LeetCode SQLCamp
-
-
-Python速成不现实，但是SQL可以！14天刷透💙 LeetCode 精选数据库 70 题！
-
-
 # 鲸析力扣数据库训练营第一期
+
+```
+Python速成不现实，但是SQL可以！14天刷透💙 LeetCode 精选数据库 70 题！
+```
 
 
 ## 👉个人微信
