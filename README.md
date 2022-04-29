@@ -1,7 +1,12 @@
-# 鲸析力扣数据库训练营第一期
+# 【鲸析】7天SQL集中营
 
 ```
-Python速成不现实，但是SQL可以！14天刷透💙 LeetCode 精选数据库 70 题！
+Python速成不现实，但是SQL可以！
+7天刷透💙 LeetCode 精选数据库 70 题！
+
+每日10题
+简单中等困难配比：6:3:1
+每日学习时间：2h
 ```
 
 
@@ -36,9 +41,6 @@ Python速成不现实，但是SQL可以！14天刷透💙 LeetCode 精选数据�
 * https://zg104.github.io
 
 
-## 👉项目须知
-
-暂无
 
 
 ## 👉项目简介
@@ -46,6 +48,10 @@ Python速成不现实，但是SQL可以！14天刷透💙 LeetCode 精选数据�
 <div align=center>
 <img src=pic/sql.gif width='400' />
 </div>
+
+### 获取70题
+
+请看视频：https://youtu.be/im1fOBOxmuk
 
 ```diff
 + 14天刷透💙 LeetCode 精选数据库 70 题
